@@ -1,18 +1,11 @@
 [
   {
     "title": "Work",
-    "timeframes": {
-      "daily": {
-        "current": 5,
-        "previous": 7
-      },
-      "weekly": {
-        "current": 32,
-        "previous": 36
-      },
-      "monthly": {
-        "current": 103,
-        "previous": 128
-      }
+    "stats": {
+      "stat1": "BackstopJS",
+      "stat2": "Jira Ticket Queen",
+      "stat3": "Server Admin",
+      "stat4": "Loves to create Workshops"
     }
-  },
+  }
+]
