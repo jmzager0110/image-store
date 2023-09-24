@@ -1,6 +1,32 @@
 [
+    {
+    "title": "Details",
+    "details": {
+      "name": "J Zager",
+      "title": "Technology Specialist",
+      "contact": "jessica.zager@vmlyr.com"
+    }
+  },
   {
     "title": "Work",
+    "stats": {
+      "stat1": "BackstopJS",
+      "stat2": "Jira Ticket Queen",
+      "stat3": "Server Admin",
+      "stat4": "Loves to create Workshops"
+    }
+  },
+    {
+    "title": "Other",
+    "stats": {
+      "stat1": "BackstopJS",
+      "stat2": "Jira Ticket Queen",
+      "stat3": "Server Admin",
+      "stat4": "Loves to create Workshops"
+    }
+  },
+    {
+    "title": "Other2",
     "stats": {
       "stat1": "BackstopJS",
       "stat2": "Jira Ticket Queen",
